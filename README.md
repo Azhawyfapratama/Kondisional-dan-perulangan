@@ -10,7 +10,7 @@
 ## Latihan 2
 - Ini Inputnya <p>
 
-![Gambar 3](screenshot/ss4.png)
+![Gambar 3](screenshot/ss3.png)
 - Ini Outputnya <p>
 
 ![Gambar 4](screenshot/ss4.png)
